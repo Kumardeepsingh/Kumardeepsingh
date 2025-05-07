@@ -32,7 +32,7 @@ Java-based ATM simulator supporting withdrawal, deposit, balance check, and pin 
 ---
 
 ### 🌐 [PeerTutor](https://github.com/Kumardeepsingh)
-A full-stack peer tutoring platform with Zoom integration, Stripe payments, real-time chat, and matching algorithm.  
+A full-stack peer tutoring platform with Zoom integration, Stripe payments, and matching algorithm.  
 **Tech Stack:** PHP, HTML, CSS, JavaScript, MySQL
 
 ---
